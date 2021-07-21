@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.io.File;
 
 
-public class MovieGuessTwo {
+public class MovieGuess {
 
     public static void main(String args[]) throws FileNotFoundException {
 
